@@ -1,7 +1,7 @@
 {
   "name": "tensorflowerpot",
 	"displayName": "Tensorflowerpot",
-	"description": "",
+	"description": "Gradually expanding tool for TF VS Code",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.64.0"
